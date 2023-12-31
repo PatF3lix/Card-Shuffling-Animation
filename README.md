@@ -1,7 +1,8 @@
-# Brassage de Carte
+# Card Shuffling
  
-Description: Le logiciel comprend une algorithm de brassage de carte en javascript. Le code Html est utiliser pour crée la page web donc le brassage de carte inter-coupé prendra place. Une page Css est aussi implementer pour la personnalisation  de cette même page. Un GitPages seras aussi crée pour convenir aux exigences de cette exercise.
+Description: The software includes a javascript map shuffling algorithm. The Html code is used to create the web page so inter-cut map shuffling will take place. 
+A CSS page is also implemented for the personalization of this same page. A GitPages will also be created to suit the requirements of this exercise.
 
-Contribution : Ce projet sera public.
+Contribution: This project will be public.
 
-Auteurs et reconnaissances : Étudiants en développement de logiciel Merci aux professeurs.
+Authors and recognitions: Software development students Thanks to the professors.
